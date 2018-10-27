@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Meteonesia</title>
-    <link>http://www.meteonesia.id/tags/blog/</link>
+    <link>https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/tags/blog/</link>
     <description>Recent content in Blog on Meteonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Oct 2018 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="http://www.meteonesia.id/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Some Blog Post</title>
-      <link>http://www.meteonesia.id/blog/second-post/</link>
+      <link>https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/blog/second-post/</link>
       <pubDate>Thu, 25 Oct 2018 13:50:46 +0200</pubDate>
       
-      <guid>http://www.meteonesia.id/blog/second-post/</guid>
+      <guid>https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/blog/second-post/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet commodo libero, nec sagittis mauris interdum vel. Maecenas finibus eleifend sapien, vitae sodales tellus volutpat eget. Curabitur magna nunc, fermentum et tortor quis, porta congue erat. Etiam laoreet ultrices porttitor. Nullam gravida est aliquet orci suscipit, sed fermentum dui vehicula. Phasellus id leo vitae metus ornare maximus vel eget odio. In hac habitasse platea dictumst.
 Vestibulum quis leo commodo, rhoncus tellus finibus, accumsan arcu.</description>
     </item>
     
     <item>
       <title>Some Blog Post</title>
-      <link>http://www.meteonesia.id/blog/first-post/</link>
+      <link>https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/blog/first-post/</link>
       <pubDate>Wed, 24 Oct 2018 13:50:46 +0200</pubDate>
       
-      <guid>http://www.meteonesia.id/blog/first-post/</guid>
+      <guid>https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/blog/first-post/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet commodo libero, nec sagittis mauris interdum vel. Maecenas finibus eleifend sapien, vitae sodales tellus volutpat eget. Curabitur magna nunc, fermentum et tortor quis, porta congue erat. Etiam laoreet ultrices porttitor. Nullam gravida est aliquet orci suscipit, sed fermentum dui vehicula. Phasellus id leo vitae metus ornare maximus vel eget odio. In hac habitasse platea dictumst.
 Vestibulum quis leo commodo, rhoncus tellus finibus, accumsan arcu.</description>
     </item>

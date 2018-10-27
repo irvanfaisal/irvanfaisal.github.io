@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Meteonesia</title>
-    <link>http://www.meteonesia.id/tags/</link>
+    <link>https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/tags/</link>
     <description>Recent content in Tags on Meteonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Oct 2018 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="http://www.meteonesia.id/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>http://www.meteonesia.id/tags/blog/</link>
+      <link>https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/tags/blog/</link>
       <pubDate>Thu, 25 Oct 2018 13:50:46 +0200</pubDate>
       
-      <guid>http://www.meteonesia.id/tags/blog/</guid>
+      <guid>https://github.com/irvanfaisal/irvanfaisal.github.io/meteonesia1/tags/blog/</guid>
       <description></description>
     </item>
     
